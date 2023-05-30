@@ -1,0 +1,24 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.container{
+	margin:auto;
+	width:70%;
+}
+.inputs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2px;
+}
+
+.alarm{
+	text-align:center;
+}
+
+
+
+
+
